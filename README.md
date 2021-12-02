@@ -1,6 +1,6 @@
 # About me
 - 👋 Hi, I’m @Simo-N-Maduna, a South African by birth and education, and a Norwegian by livelihood.
-- 👀 I’m interested in applied genomic research in fields of molecular ecology and aquaculture. 
+- 👀 I’m interested in applied genomic research in fields of molecular ecology and aquaculture. I am always eager to parcipate in genetic data analysis. 
 - 🌱 I’m currently learning computational approaches for *de novo* reference genome assemblies of (complex) eukaryotes, GWAS and seascape/landscape genomics.
 - 💞️ I’m looking to collaborate on a bioinformatics pipeline for GWAS. 
 - 📫 You can reach me at simo@simo-maduna.info
